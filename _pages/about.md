@@ -30,7 +30,7 @@ redirect_from:
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 Publications 
-
+"*" indicates equal contribution.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/SaProt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,6 +56,20 @@ Mingyang Hu, Fajie Yuan, Kevin K. Yang, Fusong Ju, **Jin Su**, Hui Wang, Fei Yan
 [[code](https://github.com/elttaes/Revisiting-PLMs)]
 
 _NeurIPS 2022_
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/MAYA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-granularity textual adversarial attack with behavior cloning**
+
+Yangyi Chen*, **Jin Su***, Wei Wei
+
+[[paper](https://arxiv.org/abs/2109.04367)] 
+[[code](https://github.com/Yangyi-Chen/MAYA)]
+
+_EMNLP 2021_
 </div>
 </div>
 
