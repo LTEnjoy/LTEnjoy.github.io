@@ -64,7 +64,7 @@ _NeurIPS 2022_
 
 **Multi-granularity textual adversarial attack with behavior cloning**
 
-Yangyi Chen*, **Jin Su***, Wei Wei
+Yangyi Chen*, **Jin Su**\*, Wei Wei
 
 [[paper](https://arxiv.org/abs/2109.04367)] 
 [[code](https://github.com/Yangyi-Chen/MAYA)]
