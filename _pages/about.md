@@ -29,13 +29,14 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/SaProt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SaProt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SaProt: Protein Language Modeling with Structure-aware Vocabulary](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2)
 
 **Jin Su**, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Fajie Yuan
-
+[[paper](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2)] [[code](https://github.com/westlake-repl/SaProt)]]
+_bioRxiv_
 </div>
 </div>
 
