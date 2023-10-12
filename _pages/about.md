@@ -24,19 +24,38 @@ redirect_from:
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+[//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SaProt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/SaProt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SaProt: Protein Language Modeling with Structure-aware Vocabulary](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2)
+**SaProt: Protein Language Modeling with Structure-aware Vocabulary**
 
 **Jin Su**, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Fajie Yuan
-[[paper](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2)] [[code](https://github.com/westlake-repl/SaProt)]]
+
+[[paper](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2)] 
+[[code](https://github.com/westlake-repl/SaProt)]
+
 _bioRxiv_
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/humingyang.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Exploring evolution-aware & -free protein language models as protein function predictors**
+
+Mingyang Hu, Fajie Yuan, Kevin K. Yang, Fusong Ju, **Jin Su**, Hui Wang, Fei Yang, Qiuyang Ding
+
+[[paper](https://arxiv.org/abs/2206.06583)] 
+[[code](https://github.com/elttaes/Revisiting-PLMs)]
+
+_NeurIPS 2022_
 </div>
 </div>
 
