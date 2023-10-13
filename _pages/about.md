@@ -17,15 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student at Westlake University
+Hi there! I am now a second-year PhD student at [Westlake University](https://www.westlake.edu.cn/), supervised by Prof. 
+[Fajie Yuan](https://fajieyuan.github.io/). My research interests lie in the AI for protein, primarily focusing on 
+the protein representation learning recently. I am also interested in the newest AI technologies and want to apply them 
+to the protein field.
+
+I received my B.S. degree from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in 2022, 
+where I worked with Prof. [Wei Wei](https://www.eric-weiwei.com/) on the adversarial attack and defense for NLP models.
 
 # 🔥 News
 
-[//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
+- *2023.10.02*: 🎉🎉 We release SaProt, a 650M structure-aware protein language model. 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 Publications
+\* denotes equal contribution
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/SaProt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
