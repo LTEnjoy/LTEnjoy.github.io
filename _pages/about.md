@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student at Westlake University
+Hi there! I am now a second-year PhD student at Westlake University, supervised by Prof. 
+[Fajie Yuan](https://fajieyuan.github.io/). 
 
 # 🔥 News
 
