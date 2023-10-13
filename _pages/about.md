@@ -17,17 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am now a second-year PhD student at Westlake University, supervised by Prof. 
+Hi there! I am now a second-year PhD student at [Westlake University](https://www.westlake.edu.cn/), supervised by Prof. 
 [Fajie Yuan](https://fajieyuan.github.io/). 
+I received my B.S. degree from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in 2022, 
+where I worked with Prof. [Wei Wei](https://www.eric-weiwei.com/) on the adversarial attack and defense for NLP models.
+
+Currently my research interests lie in the AI for protein, primarily focusing on the protein representation learning. I
+am also interested in the newest AI technologies and want to apply them to the protein field.
 
 # 🔥 News
 
-[//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
-[//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+- *2023.10.02*: 🎉🎉 We release SaProt, a 650M structure-aware protein language model. 
 
 # 📝 Publications
-\* indicates equal contribution.
+\* denotes equal contribution
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/SaProt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,7 +65,7 @@ _NeurIPS 2022_
 
 **Multi-granularity textual adversarial attack with behavior cloning**
 
-Yangyi Chen*, **Jin Su***, Wei Wei
+Yangyi Chen\*, **Jin Su**\*, Wei Wei
 
 [[paper](https://arxiv.org/abs/2109.04367)] 
 [[code](https://github.com/Yangyi-Chen/MAYA)]
@@ -77,14 +81,12 @@ _EMNLP 2021_
 
 # 📖 Educations
 
-[//]: # (- *2019.06 - 2022.04 &#40;now&#41;*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-[//]: # (- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+- *2018.09 - 2022.06*, B.S. in Huazhong University of Science and Technology.
+- *2022.09 - now,* PhD in Westlake University.
 
 # 💬 Invited Talks
 
-[//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-[//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
-
 # 💻 Internships
 
-[//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
+- *2020.12 - 2021.05*, [Cognitive Computing and Intelligent Information Processing (CCIIP) Laboratory](http://cciip.cs.hust.edu.cn/)
+- *2021.07 - 2022.06*, Represenation Learning Laboratory, [Westlake University](https://www.westlake.edu.cn/)
