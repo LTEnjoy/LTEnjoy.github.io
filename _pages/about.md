@@ -27,7 +27,7 @@ am also interested in the newest AI technologies and want to apply them to the p
 
 # 🔥 News
 
-- *2023.10.02*: 🎉🎉 We release SaProt, a 650M structure-aware protein language model. 
+- *2023.10.02*: 🎉🎉 We release [SaProt](https://github.com/westlake-repl/SaProt), a 650M structure-aware protein language model. 
 
 # 📝 Publications
 \* denotes equal contribution
