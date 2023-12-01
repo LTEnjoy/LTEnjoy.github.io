@@ -25,11 +25,14 @@ where I worked with Prof. [Wei Wei](https://www.eric-weiwei.com/) on the adversa
 Currently my research interests lie in the AI for protein, primarily focusing on the protein representation learning. I
 am also interested in the newest AI technologies and want to apply them to the protein field.
 
+I also like to write interesting and useful code projects, such as easyChat
+<a href="https://github.com/LTEnjoy/easyChat"><img src="https://img.shields.io/github/stars/LTEnjoy/easyChat?style=social&label=Code+Stars" style="max-width: 100%;"></a>
+, a easy way to send WeChat messages to your friends automatically. If you have any interesting idea, please feel free to
+email me!
+
 # 🔥 News
 
-- *2023.10.02*: 🎉🎉 We release [SaProt](https://github.com/westlake-repl/SaProt)<a href="https://github.com/westlake-repl/SaProt">
-    <img src="https://img.shields.io/github/stars/westlake-repl/SaProt?style=social&label=Code+Stars" style="max-width: 100%;">
-</a>, a 650M structure-aware protein language model. 
+- *2023.10.02*: 🎉🎉 We release [SaProt](https://github.com/westlake-repl/SaProt)<a href="https://github.com/westlake-repl/SaProt"><img src="https://img.shields.io/github/stars/westlake-repl/SaProt?style=social&label=Code+Stars" style="max-width: 100%;"></a>, a 650M structure-aware protein language model. 
 
 # 📝 Publications
 \* denotes equal contribution
