@@ -40,8 +40,13 @@ am also interested in the newest AI technologies and want to apply them to the p
 **Jin Su**, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Fajie Yuan
 
 [[paper](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2)]
-<a href='https://github.com/westlake-repl/SaProt'>
-<img src="https://img.shields.io/github/stars/westlake-repl/SaProt?style=social&label=Code+Stars"></a>
+<a href="https://github.com/westlake-repl/SaProt">
+    <img src="https://img.shields.io/github/stars/westlake-repl/SaProt?style=social&label=Code+Stars">
+</a>
+<a href="https://huggingface.co/westlake-repl/SaProt_650M_AF2">
+    <img src=https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model>
+</a>
+
 
 _bioRxiv_
 </div>
@@ -56,7 +61,6 @@ Mingyang Hu, Fajie Yuan, Kevin K. Yang, Fusong Ju, **Jin Su**, Hui Wang, Fei Yan
 
 [[paper](https://arxiv.org/abs/2206.06583)] 
 <a href='https://github.com/elttaes/Revisiting-PLMs'>
-<img src="https://img.shields.io/github/stars/elttaes/Revisiting-PLMs?style=social&label=Code+Stars"></a>
 
 _NeurIPS 2022_
 </div>
