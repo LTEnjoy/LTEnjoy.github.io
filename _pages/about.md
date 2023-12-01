@@ -42,12 +42,8 @@ am also interested in the newest AI technologies and want to apply them to the p
 **Jin Su**, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Fajie Yuan
 
 <a href="https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2"><img src="https://img.shields.io/badge/Paper-bioRxiv-green" style="max-width: 100%;"></a>
-<a href="https://huggingface.co/westlake-repl/SaProt_650M_AF2">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model" style="max-width: 100%;">
-</a>
-<a href="https://github.com/westlake-repl/SaProt">
-    <img src="https://img.shields.io/github/stars/westlake-repl/SaProt?style=social&label=Code+Stars" style="max-width: 100%;">
-</a>
+<a href="https://huggingface.co/westlake-repl/SaProt_650M_AF2"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model" style="max-width: 100%;"></a>
+<a href="https://github.com/westlake-repl/SaProt"><img src="https://img.shields.io/github/stars/westlake-repl/SaProt?style=social&label=Code+Stars" style="max-width: 100%;"></a>
 
 _bioRxiv_
 </div>
@@ -60,12 +56,8 @@ _bioRxiv_
 
 Mingyang Hu, Fajie Yuan, Kevin K. Yang, Fusong Ju, **Jin Su**, Hui Wang, Fei Yang, Qiuyang Ding
 
-<a href="https://arxiv.org/abs/2206.06583">
-    <img src="https://img.shields.io/badge/Paper-arXiv-red">
-</a>
-<a href='https://github.com/elttaes/Revisiting-PLMs'>
-    <img src="https://img.shields.io/github/stars/elttaes/Revisiting-PLMs?style=social&label=Code+Stars">
-</a>
+<a href="https://arxiv.org/abs/2206.06583"><img src="https://img.shields.io/badge/Paper-arXiv-red"></a>
+<a href='https://github.com/elttaes/Revisiting-PLMs'><img src="https://img.shields.io/github/stars/elttaes/Revisiting-PLMs?style=social&label=Code+Stars"></a>
 
 _NeurIPS 2022_
 </div>
@@ -78,11 +70,8 @@ _NeurIPS 2022_
 
 Yangyi Chen\*, **Jin Su**\*, Wei Wei
 
-<a href="https://arxiv.org/abs/2109.04367">
-    <img src="https://img.shields.io/badge/Paper-arXiv-red">
-</a>
-<a href='https://github.com/Yangyi-Chen/MAYA'>
-<img src="https://img.shields.io/github/stars/Yangyi-Chen/MAYA?style=social&label=Code+Stars"></a>
+<a href="https://arxiv.org/abs/2109.04367"><img src="https://img.shields.io/badge/Paper-arXiv-red"></a>
+<a href='https://github.com/Yangyi-Chen/MAYA'><img src="https://img.shields.io/github/stars/Yangyi-Chen/MAYA?style=social&label=Code+Stars"></a>
 
 _EMNLP 2021_
 </div>
