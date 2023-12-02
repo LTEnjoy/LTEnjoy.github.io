@@ -27,7 +27,7 @@ am also interested in the newest AI technologies and want to apply them to the p
 
 I also like to write interesting and useful code projects, such as [easyChat](https://github.com/LTEnjoy/easyChat)
 <a href="https://github.com/LTEnjoy/easyChat"><img src="https://img.shields.io/github/stars/LTEnjoy/easyChat?style=social&label=Code+Stars" style="max-width: 100%;"></a>
-, a easy way to send WeChat messages to your friends automatically. If you have any interesting idea, feel free to
+, an easy way to send WeChat messages to your friends automatically. If you have any interesting idea, feel free to
 email me!
 
 # 🔥 News
