@@ -32,7 +32,9 @@ email me!
 
 # 🔥 News
 
-- *2023.10.02*: 🎉🎉 We release [SaProt](https://github.com/westlake-repl/SaProt) <a href="https://github.com/westlake-repl/SaProt"><img src="https://img.shields.io/github/stars/westlake-repl/SaProt?style=social&label=Code+Stars" style="max-width: 100%;"></a>, a 650M structure-aware protein language model. 
+- *2024.01.17*: Our SaProt paper has been accepted as **ICLR 2024 spotlight** 🎉🎉🎉!
+
+- *2023.10.02*: We release [SaProt](https://github.com/westlake-repl/SaProt) <a href="https://github.com/westlake-repl/SaProt"><img src="https://img.shields.io/github/stars/westlake-repl/SaProt?style=social&label=Code+Stars" style="max-width: 100%;"></a>, a 650M structure-aware protein language model. 
 
 # 📝 Publications
 \* denotes equal contribution
