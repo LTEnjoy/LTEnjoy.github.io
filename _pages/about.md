@@ -46,8 +46,10 @@ email me!
 
 **Jin Su**, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Fajie Yuan
 
-<a href="https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2"><img src="https://img.shields.io/badge/Paper-bioRxiv-green" style="max-width: 100%;"></a>
-<a href="https://huggingface.co/westlake-repl/SaProt_650M_AF2"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model" style="max-width: 100%;"></a>
+<a href="https://www.biorxiv.org/content/10.1101/2023.10.01.560349v3"><img src="https://img.shields.io/badge/Paper-bioRxiv-green" style="max-width: 100%;"></a>
+<a href="https://huggingface.co/westlake-repl/SaProt_650M_AF2"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=Model" style="max-width: 100%;"></a>
+<a href="https://portal.valencelabs.com/blogs/post/saprot-protein-language-modeling-with-structure-aware-vocabulary-uyLPrUZqyDF60Yr" alt="blog"><img src="https://img.shields.io/badge/Blog-Portal-violet" /></a> 
+<a href="https://zhuanlan.zhihu.com/p/664754366" alt="zhihu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a> 
 <a href="https://github.com/westlake-repl/SaProt"><img src="https://img.shields.io/github/stars/westlake-repl/SaProt?style=social&label=Code+Stars" style="max-width: 100%;"></a>
 
 _bioRxiv_
