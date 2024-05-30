@@ -1,3 +1,13 @@
 _site/
 push.sh
 .DS_Store
+/.idea/.gitignore
+/.idea/deployment.xml
+/.idea/jupyter-settings.xml
+/.idea/LTEnjoy.github.io.iml
+/.idea/markdown.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
