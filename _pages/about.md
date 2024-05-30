@@ -32,12 +32,32 @@ email me!
 
 # 🔥 News
 
+- *2024.05.28*: Our preprint SaprotHub is released! Everyone now can effortlessly process data, train protein model and 
+collaborate with an open community🤩!
+ 
 - *2024.01.17*: Our SaProt paper has been accepted as **ICLR 2024 spotlight** 🎉🎉🎉!
 
 - *2023.10.02*: We release [SaProt](https://github.com/westlake-repl/SaProt) <a href="https://github.com/westlake-repl/SaProt"><img src="https://img.shields.io/github/stars/westlake-repl/SaProt?style=social&label=Code+Stars" style="max-width: 100%;"></a>, a 650M structure-aware protein language model. 
 
 # 📝 Publications
 \* denotes equal contribution
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/SaProt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SaprotHub: Making Protein Modeling Accessible to All Biologists**
+
+**Jin Su**, Zhikai Li, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Dacheng Ma, The OPMC, Sergey Ovchinnikov,
+Fajie Yuan
+
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.24.595648v1"><img src="https://img.shields.io/badge/Paper-bioRxiv-green" style="max-width: 100%;"></a>
+<a href="https://huggingface.co/SaProtHub"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=SaprotHub" style="max-width: 100%;"></a>
+<a href="https://colab.research.google.com/drive/1nxYBed32rkAvoUpt8996Ge6D--Su4_oK"><img src="images/colab-badge.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/westlake-repl/SaProtHub"><img src="https://img.shields.io/github/stars/westlake-repl/SaprotHub?style=social&label=Code+Stars" style="max-width: 100%;"></a>
+
+_bioRxiv preprint_
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/SaProt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
