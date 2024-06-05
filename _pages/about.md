@@ -44,7 +44,7 @@ collaborate with an open community🤩!
 # 📝 Publications
 \* denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/SaprotHub.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/ProTrek.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning**
