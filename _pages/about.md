@@ -32,6 +32,8 @@ email me!
 
 # 🔥 News
 
+- *2024.06.03*: We are thrilled to release ProTrek, a tri-modal PLM modeling protein sequence, structure and function!
+
 - *2024.05.28*: Our preprint SaprotHub is released! Everyone now can effortlessly process data, train protein model and 
 collaborate with an open community🤩!
  
@@ -41,6 +43,21 @@ collaborate with an open community🤩!
 
 # 📝 Publications
 \* denotes equal contribution
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/SaprotHub.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning**
+
+**Jin Su**, Xibin Zhou, Xuting Zhang, Fajie Yuan
+
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-bioRxiv-green" style="max-width: 100%;"></a>
+<a href="https://huggingface.co/spaces/westlake-repl/Demo_ProTrek_650M_UniRef50"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=Demo" style="max-width: 100%;"></a>
+<a href="https://github.com/westlake-repl/ProTrek"><img src="https://img.shields.io/github/stars/westlake-repl/ProTrek?style=social&label=Code+Stars" style="max-width: 100%;"></a>
+
+_bioRxiv preprint_
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/SaprotHub.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
