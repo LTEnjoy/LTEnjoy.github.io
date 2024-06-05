@@ -32,9 +32,9 @@ email me!
 
 # 🔥 News
 
-- *2024.06.03*: We are thrilled to release ProTrek, a tri-modal PLM modeling protein sequence, structure and function!
+- *2024.06.03*: We are thrilled to release [ProTrek](https://github.com/westlake-repl/ProTrek), a tri-modal PLM modeling protein sequence, structure and function!
 
-- *2024.05.28*: Our preprint SaprotHub is released! Everyone now can effortlessly process data, train protein model and 
+- *2024.05.28*: Our preprint [SaprotHub](https://huggingface.co/SaProtHub) is released! Everyone now can effortlessly process data, train protein model and 
 collaborate with an open community🤩!
  
 - *2024.01.17*: Our SaProt paper has been accepted as **ICLR 2024 spotlight** 🎉🎉🎉!
