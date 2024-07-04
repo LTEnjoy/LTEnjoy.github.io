@@ -69,7 +69,7 @@ Fajie Yuan
 
 <a href="https://www.biorxiv.org/content/10.1101/2024.05.24.595648v1"><img src="https://img.shields.io/badge/Paper-bioRxiv-green" style="max-width: 100%;"></a>
 <a href="https://huggingface.co/SaProtHub"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=SaprotHub" style="max-width: 100%;"></a>
-<a href="https://colab.research.google.com/drive/1nxYBed32rkAvoUpt8996Ge6D--Su4_oK"><img src="images/colab-badge.svg" style="max-width: 100%;"></a>
+<a href="https://colab.research.google.com/github/westlake-repl/SaprotHub/blob/main/colab/SaprotHub.ipynb"><img src="images/colab-badge.svg" style="max-width: 100%;"></a>
 <a href="https://github.com/westlake-repl/SaProtHub"><img src="https://img.shields.io/github/stars/westlake-repl/SaprotHub?style=social&label=Code+Stars" style="max-width: 100%;"></a>
 
 _bioRxiv preprint_
