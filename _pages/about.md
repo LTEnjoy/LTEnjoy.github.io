@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am now a second-year PhD student at [Westlake University](https://www.westlake.edu.cn/), supervised by Prof. 
+Hi there! My name is Jin Su. I am now a third-year PhD student at [Westlake University](https://www.westlake.edu.cn/), supervised by Prof. 
 [Fajie Yuan](https://fajieyuan.github.io/). 
 I received my B.S. degree from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in 2022, 
 where I worked with Prof. [Wei Wei](https://www.eric-weiwei.com/) on the adversarial attack and defense for NLP models.
