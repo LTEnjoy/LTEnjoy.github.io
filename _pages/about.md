@@ -123,20 +123,22 @@ _EMNLP 2021_
 </div>
 </div>
 
-# 🎖 Honors and Awards
+[//]: # (# 🎖 Honors and Awards)
 
 
 [//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 [//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
-# 📖 Educations
-- *2022.09 - now,* PhD in Westlake University.
-- *2018.09 - 2022.06*, B.S. in Huazhong University of Science and Technology.
 
 # 💬 Invited Talks
-- *2024.08.23*, Debora Marks Lab of Harvard Medical School: "SaProt and SaprotHub".
+- *2024.11.26*, [Machine learning for protein engineering seminar](https://x.com/ml4proteins): "ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning ".
+- *2024.08.23*, [Debora Marks Lab of Harvard Medical School](https://www.deboramarkslab.com/): "SaProt and SaprotHub".
 - *2024.04.26*, AI for Drug Discovery Team, ByteDance Research: "AlphaFold2 evaluation and SaProt".
 
 # 💻 Internships
 - *2021.07 - 2022.06*, Represenation Learning Laboratory, [Westlake University](https://www.westlake.edu.cn/)
 - *2020.12 - 2021.05*, [Cognitive Computing and Intelligent Information Processing (CCIIP) Laboratory](http://cciip.cs.hust.edu.cn/)
+
+# 📖 Educations
+- *2022.09 - now,* PhD in Westlake University.
+- *2018.09 - 2022.06*, B.S. in Huazhong University of Science and Technology.
