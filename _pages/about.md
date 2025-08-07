@@ -61,7 +61,7 @@ collaborate with an open community🤩!
 <a href="https://huggingface.co/spaces/westlake-repl/Demo_ProTrek_650M_UniRef50"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=Demo" style="max-width: 100%;"></a>
 <a href="https://github.com/westlake-repl/ProTrek"><img src="https://img.shields.io/github/stars/westlake-repl/ProTrek?style=social&label=Code+Stars" style="max-width: 100%;"></a>
 
-_Nature Biotechnology_
+_Nature Biotechnology 2025_
 </div>
 </div>
 
@@ -78,7 +78,7 @@ Fajie Yuan
 <a href="https://colab.research.google.com/github/westlake-repl/SaprotHub/blob/main/colab/SaprotHub.ipynb"><img src="images/colab-badge.svg" style="max-width: 100%;"></a>
 <a href="https://github.com/westlake-repl/SaProtHub"><img src="https://img.shields.io/github/stars/westlake-repl/SaprotHub?style=social&label=Code+Stars" style="max-width: 100%;"></a>
 
-_Nature Biotechnology_
+_Nature Biotechnology 2025_
 </div>
 </div>
 
