@@ -32,7 +32,11 @@ email me!
 
 # 🔥 News
 
-- *2024.09.06*: I will be a reviewer for **ICLR 2025** 🎉🎉🎉!
+- *2025.08.07*: Our SaprotHub paper has also been accepted by Nature Biotechnology🎉🎉🎉!
+
+- *2025.07.08*: Our ProTrek paper has been accepted by Nature Biotechnology🎉🎉🎉!
+
+- *2024.09.06*: I will be a reviewer for **ICLR 2025**.
 
 - *2024.06.03*: We are thrilled to release [ProTrek](https://github.com/westlake-repl/ProTrek), a tri-modal PLM modeling protein sequence, structure and function!
 
@@ -57,7 +61,7 @@ collaborate with an open community🤩!
 <a href="https://huggingface.co/spaces/westlake-repl/Demo_ProTrek_650M_UniRef50"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=Demo" style="max-width: 100%;"></a>
 <a href="https://github.com/westlake-repl/ProTrek"><img src="https://img.shields.io/github/stars/westlake-repl/ProTrek?style=social&label=Code+Stars" style="max-width: 100%;"></a>
 
-_bioRxiv preprint_
+_Nature Biotechnology_
 </div>
 </div>
 
@@ -74,7 +78,7 @@ Fajie Yuan
 <a href="https://colab.research.google.com/github/westlake-repl/SaprotHub/blob/main/colab/SaprotHub.ipynb"><img src="images/colab-badge.svg" style="max-width: 100%;"></a>
 <a href="https://github.com/westlake-repl/SaProtHub"><img src="https://img.shields.io/github/stars/westlake-repl/SaprotHub?style=social&label=Code+Stars" style="max-width: 100%;"></a>
 
-_bioRxiv preprint_
+_Nature Biotechnology_
 </div>
 </div>
 
