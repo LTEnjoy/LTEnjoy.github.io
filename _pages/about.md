@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! My name is Jin Su. I am now a third-year PhD student at [Zhejiang University](https://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), supervised by Prof. 
+Hi there! My name is Jin Su. I am now a fourth-year PhD student at [Zhejiang University](https://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/), supervised by Prof. 
 [Fajie Yuan](https://fajieyuan.github.io/). 
 I received my B.S. degree from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in 2022, 
 where I worked with Prof. [Wei Wei](https://www.eric-weiwei.com/) on the adversarial attack and defense for NLP models.
@@ -135,11 +135,13 @@ _EMNLP 2021_
 
 
 # 💬 Invited Talks
-- *2024.11.26*, [Machine learning for protein engineering seminar](https://x.com/ml4proteins): "ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning ".
+- *2025.12.05*, [The Shanghai Institute for Advanced Immunochemical Studies, SIAIS](https://siais.shanghaitech.edu.cn/main.htm): "ProTrek and SaprotHub: Enhancing Protein Research through Deep Learning Technology".
+- *2024.11.26*, [Machine learning for protein engineering seminar](https://x.com/ml4proteins): "ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning".
 - *2024.08.23*, [Debora Marks Lab of Harvard Medical School](https://www.deboramarkslab.com/): "SaProt and SaprotHub".
 - *2024.04.26*, AI for Drug Discovery Team, ByteDance Research: "AlphaFold2 evaluation and SaProt".
 
 # 💻 Internships
+- *2025.09 - 2026.02*, [Tongyi Lab, Alibaba Group](https://careers-tongyi.alibaba.com/?lang=zh)
 - *2021.07 - 2022.06*, Represenation Learning Laboratory, [Westlake University](https://www.westlake.edu.cn/)
 - *2020.12 - 2021.05*, [Cognitive Computing and Intelligent Information Processing (CCIIP) Laboratory](http://cciip.cs.hust.edu.cn/)
 
