@@ -40,6 +40,9 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* ----------------------------------------------------------------
+   Publication cards
+   ---------------------------------------------------------------- */
 .paper-box {
     display: flex;
     justify-content: left;
@@ -47,8 +50,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    padding: 1.6em 0;
 
     .paper-box-image{
         justify-content: center;
@@ -61,12 +63,12 @@
             object-fit: cover;
         }
     }
-    
+
     .paper-box-text{
         max-width: 100%;
         order: 1;
     }
-    
+
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
@@ -80,22 +82,39 @@
             max-width: 100%;
             order: 2;
         }
-
     }
-
-
 }
 
+/* venue label — 极简标签，不花哨 */
+.paper-box-text em:last-of-type {
+    display: inline-block;
+    margin-top: 0.45em;
+    padding: 0.1em 0.55em;
+    font-style: normal;
+    font-size: 0.8em;
+    font-weight: 500;
+    color: #444;
+    background: #f0f0f0;
+    border-radius: 3px;
+    letter-spacing: 0.01em;
+}
+
+/* ----------------------------------------------------------------
+   Scroll-offset anchor
+   ---------------------------------------------------------------- */
 $scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
+h1:before, .anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
     margin-top: -$scroll_offset;
 }
 
+/* ----------------------------------------------------------------
+   Badge (paper image overlay)
+   ---------------------------------------------------------------- */
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -105,4 +124,40 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+/* ----------------------------------------------------------------
+   Sidebar — larger avatar, tighter social links
+   ---------------------------------------------------------------- */
+.author__avatar img {
+    max-width: 160px !important;
+    min-width: 100px !important;
+}
+
+.author__urls.social-icons li {
+    margin-bottom: 2px;
+
+    a {
+        font-size: 0.92em;
+    }
+}
+
+/* ----------------------------------------------------------------
+   Main content — comfortable reading width
+   ---------------------------------------------------------------- */
+@include breakpoint($x-large) {
+    .page__content {
+        max-width: 860px;
+    }
+}
+
+/* ----------------------------------------------------------------
+   Body — slightly more breathing room
+   ---------------------------------------------------------------- */
+body {
+    line-height: 1.7;
+}
+
+p {
+    line-height: 1.75;
 }
