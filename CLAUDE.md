@@ -8,16 +8,18 @@ This is a Jekyll-based academic personal homepage (forked from AcadHomepage) tha
 
 ## Development Commands
 
-**Start local development server:**
+**Start local development server (Linux/Mac):**
 ```bash
-bash run_server.sh
+bundle exec jekyll liveserve
 ```
-This runs `bundle exec jekyll liveserve` with live reload. Access at http://127.0.0.1:4000
+Access at http://127.0.0.1:4000. On Windows, install Ruby via [RubyInstaller](https://rubyinstaller.org/downloads/) (Ruby+Devkit), then run the command above in PowerShell.
 
 **Install dependencies:**
 ```bash
 bundle install
 ```
+
+**Deploy:** Push to `main` — GitHub Pages builds and publishes automatically within ~1 minute.
 
 ## Architecture
 
@@ -51,7 +53,38 @@ The `_includes/fetch_google_scholar_stats.html` include fetches citation data fr
 
 ### Custom Styles
 
-Publication card styles (`.paper-box`, `.paper-box-image`, `.paper-box-text`, `.badge`) are defined in `assets/css/main.scss` (not in `_sass/`). This is where to make layout changes to the publications section.
+All custom CSS lives in `assets/css/main.scss` (not in `_sass/`). Key custom classes defined there:
+
+- `.paper-box` / `.paper-box-text` — publication card layout; text takes full width (no image column)
+- `.publications-list` — scrollable container wrapping all paper-box cards (fixed `max-height: 600px`, `overflow-y: auto`)
+- `.pub-year` — small gray year label rendered before each paper title
+- `.badge` — absolute-positioned overlay label on paper images (dark blue)
+- `paper-box-text em:last-of-type` — venue label styled as a subtle gray pill tag (e.g. _ICLR 2024 spotlight_)
+
+Font: Inter (loaded via Google Fonts in `_includes/head/custom.html`), falling back to system UI fonts. The font variable is overridden in `_sass/_variables.scss`.
+
+### Publication Entry Format
+
+Each entry in `_pages/about.md` follows this structure — **do not deviate**:
+
+```html
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+<span class="pub-year">YEAR</span> **[Paper Title](https://link-to-paper)**
+
+Author list (**bold** for this author, \* for equal contribution)
+
+<a href="..."><img src="https://img.shields.io/badge/..."></a>  <!-- optional extra badges: HuggingFace, GitHub, Colab, etc. -->
+
+_Venue Name_
+</div>
+</div>
+```
+
+Rules:
+- Paper link goes on the **title**, not as a separate badge
+- Other resource badges (HuggingFace, GitHub Stars, Colab, Blog) are kept below the author line
+- All entries are wrapped in `<div class="publications-list">...</div>`
 
 ### Configuration
 
