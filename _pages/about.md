@@ -44,6 +44,7 @@ collaborate with an open community🤩!
 # 📝 Publications
 \* denotes equal contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning**
@@ -58,6 +59,7 @@ _bioRxiv preprint_
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SaprotHub: Making Protein Modeling Accessible to All Biologists**
@@ -74,6 +76,7 @@ _bioRxiv preprint_
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SaProt: Protein Language Modeling with Structure-aware Vocabulary**
@@ -90,6 +93,7 @@ _ICLR 2024 spotlight_
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring evolution-aware & -free protein language models as protein function predictors**
@@ -103,6 +107,7 @@ _NeurIPS 2022_
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi-granularity textual adversarial attack with behavior cloning**
