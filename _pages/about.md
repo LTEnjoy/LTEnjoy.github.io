@@ -22,8 +22,8 @@ Hi there! My name is Jin Su. I am now a fourth-year PhD student at [Zhejiang Uni
 I received my B.S. degree from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in 2022, 
 where I worked with Prof. [Wei Wei](https://www.eric-weiwei.com/) on the adversarial attack and defense for NLP models.
 
-Currently my research interests lie in the AI for protein, primarily focusing on the protein representation learning. I
-am also interested in the newest AI technologies and want to apply them to the protein field.
+In the early stages of my PhD, my research centered on AI for protein science, with a primary focus on protein 
+representation learning. Recently, I have transitioned my research focus toward the development of advanced AI agents.
 
 I also like to write interesting and useful code projects, such as [easyChat](https://github.com/LTEnjoy/easyChat) <a href="https://github.com/LTEnjoy/easyChat"><img src="https://img.shields.io/github/stars/LTEnjoy/easyChat?style=social&label=Code+Stars" style="max-width: 100%; vertical-align: middle;"></a> — an easy way to send WeChat messages to your friends automatically. If you have any interesting idea, feel free to email me!
 
@@ -50,9 +50,35 @@ collaborate with an open community🤩!
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-**ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning**
+**U-Fold: Dynamic Intent-Aware Context Folding for User-Centric Agents**
 
-**Jin Su**, Xibin Zhou, Xuting Zhang, Fajie Yuan
+**Jin Su**, Runnan Fang, Yeqiu Li, ..., Ningyu Zhang, Fajie Yuan
+
+<a href="https://arxiv.org/abs/2601.18285"><img src="https://img.shields.io/badge/Paper-arXiv-red" style="max-width: 100%;"></a>
+
+_ACL 2026 Findings_
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+**Prime: A multi-agent environment for orchestrating dynamic computational workflows in protein engineerings**
+
+Yuyang Zhou, **Jin Su**\*, Jiawei Zhang, ..., Li Fan, Fajie Yuan
+
+<a href="https://doi.org/10.1101/2025.09.22.677756"><img src="https://img.shields.io/badge/Paper-bioRxiv-green" style="max-width: 100%;"></a>
+
+_preprint_
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+**A trimodal protein language model enables advanced protein searches**
+
+**Jin Su**, Yan He, Shiyang You, ..., Hongyuan Lu, Fajie Yuan
 
 <a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-bioRxiv-green" style="max-width: 100%;"></a>
 <a href="https://huggingface.co/spaces/westlake-repl/Demo_ProTrek_650M_UniRef50"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=Demo" style="max-width: 100%;"></a>
@@ -65,10 +91,9 @@ _Nature Biotechnology 2025_
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-**SaprotHub: Making Protein Modeling Accessible to All Biologists**
+**Democratizing protein language model training, sharing and collaboration**
 
-**Jin Su**, Zhikai Li, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Dacheng Ma, The OPMC, Sergey Ovchinnikov,
-Fajie Yuan
+**Jin Su**, Zhikai Li, Tianli Tao, ..., Sergey Ovchinnikov, Fajie Yuan
 
 <a href="https://www.biorxiv.org/content/10.1101/2024.05.24.595648v1"><img src="https://img.shields.io/badge/Paper-bioRxiv-green" style="max-width: 100%;"></a>
 <a href="https://huggingface.co/SaProtHub"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=SaprotHub" style="max-width: 100%;"></a>
