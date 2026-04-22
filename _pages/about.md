@@ -75,6 +75,9 @@ _preprint_
 
 **Jin Su**, Yan He, Shiyang You, ..., Hongyuan Lu, Fajie Yuan
 
+<a href="https://huggingface.co/spaces/westlake-repl/Demo_ProTrek_650M_UniRef50"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=Demo" style="max-width: 100%;"></a>
+<a href="https://github.com/westlake-repl/ProTrek"><img src="https://img.shields.io/github/stars/westlake-repl/ProTrek?style=social&label=Code+Stars" style="max-width: 100%;"></a>
+
 _Nature Biotechnology 2025_
 </div>
 </div>
@@ -84,6 +87,10 @@ _Nature Biotechnology 2025_
 <span class="pub-year">2025</span> **[Democratizing protein language model training, sharing and collaboration](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v1)**
 
 **Jin Su**, Zhikai Li, Tianli Tao, ..., Sergey Ovchinnikov, Fajie Yuan
+
+<a href="https://huggingface.co/SaProtHub"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=SaprotHub" style="max-width: 100%;"></a>
+<a href="https://colab.research.google.com/github/westlake-repl/SaprotHub/blob/main/colab/SaprotHub.ipynb"><img src="images/colab-badge.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/westlake-repl/SaProtHub"><img src="https://img.shields.io/github/stars/westlake-repl/SaprotHub?style=social&label=Code+Stars" style="max-width: 100%;"></a>
 
 _Nature Biotechnology 2025_
 </div>
@@ -95,6 +102,11 @@ _Nature Biotechnology 2025_
 
 **Jin Su**, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Fajie Yuan
 
+<a href="https://huggingface.co/westlake-repl/SaProt_650M_AF2"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=Model" style="max-width: 100%;"></a>
+<a href="https://portal.valencelabs.com/blogs/post/saprot-protein-language-modeling-with-structure-aware-vocabulary-uyLPrUZqyDF60Yr"><img src="https://img.shields.io/badge/Blog-Portal-violet" /></a>
+<a href="https://zhuanlan.zhihu.com/p/664754366"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
+<a href="https://github.com/westlake-repl/SaProt"><img src="https://img.shields.io/github/stars/westlake-repl/SaProt?style=social&label=Code+Stars" style="max-width: 100%;"></a>
+
 _ICLR 2024 spotlight_
 </div>
 </div>
@@ -105,6 +117,8 @@ _ICLR 2024 spotlight_
 
 Mingyang Hu, Fajie Yuan, Kevin K. Yang, Fusong Ju, **Jin Su**, Hui Wang, Fei Yang, Qiuyang Ding
 
+<a href="https://github.com/elttaes/Revisiting-PLMs"><img src="https://img.shields.io/github/stars/elttaes/Revisiting-PLMs?style=social&label=Code+Stars"></a>
+
 _NeurIPS 2022_
 </div>
 </div>
@@ -114,6 +128,8 @@ _NeurIPS 2022_
 <span class="pub-year">2021</span> **[Multi-granularity textual adversarial attack with behavior cloning](https://arxiv.org/abs/2109.04367)**
 
 Yangyi Chen\*, **Jin Su**\*, Wei Wei
+
+<a href="https://github.com/Yangyi-Chen/MAYA"><img src="https://img.shields.io/github/stars/Yangyi-Chen/MAYA?style=social&label=Code+Stars"></a>
 
 _EMNLP 2021_
 </div>
