@@ -44,7 +44,6 @@ collaborate with an open community🤩!
 # 📝 Publications
 \* denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning**
@@ -57,9 +56,7 @@ collaborate with an open community🤩!
 
 _bioRxiv preprint_
 </div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SaprotHub: Making Protein Modeling Accessible to All Biologists**
@@ -73,7 +70,6 @@ Fajie Yuan
 <a href="https://github.com/westlake-repl/SaProtHub"><img src="https://img.shields.io/github/stars/westlake-repl/SaprotHub?style=social&label=Code+Stars" style="max-width: 100%;"></a>
 
 _bioRxiv preprint_
-</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='' alt="sym" width="100%"></div></div>
