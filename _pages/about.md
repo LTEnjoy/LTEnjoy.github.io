@@ -25,10 +25,7 @@ where I worked with Prof. [Wei Wei](https://www.eric-weiwei.com/) on the adversa
 Currently my research interests lie in the AI for protein, primarily focusing on the protein representation learning. I
 am also interested in the newest AI technologies and want to apply them to the protein field.
 
-I also like to write interesting and useful code projects, such as [easyChat](https://github.com/LTEnjoy/easyChat)
-<a href="https://github.com/LTEnjoy/easyChat"><img src="https://img.shields.io/github/stars/LTEnjoy/easyChat?style=social&label=Code+Stars" style="max-width: 100%;"></a>
-, an easy way to send WeChat messages to your friends automatically. If you have any interesting idea, feel free to
-email me!
+I also like to write interesting and useful code projects, such as [easyChat](https://github.com/LTEnjoy/easyChat) <a href="https://github.com/LTEnjoy/easyChat"><img src="https://img.shields.io/github/stars/LTEnjoy/easyChat?style=social&label=Code+Stars" style="max-width: 100%; vertical-align: middle;"></a> — an easy way to send WeChat messages to your friends automatically. If you have any interesting idea, feel free to email me!
 
 # 🔥 News
 
@@ -50,7 +47,7 @@ collaborate with an open community🤩!
 # 📝 Publications
 \* denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/ProTrek.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 **ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning**
@@ -65,7 +62,7 @@ _Nature Biotechnology 2025_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/SaprotHub.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 **SaprotHub: Making Protein Modeling Accessible to All Biologists**
@@ -82,7 +79,7 @@ _Nature Biotechnology 2025_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/SaProt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 **SaProt: Protein Language Modeling with Structure-aware Vocabulary**
@@ -99,10 +96,10 @@ _ICLR 2024 spotlight_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/humingyang.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-**Exploring evolution-aware & -free protein language models as protein function predictors**
+**Exploring evolution-aware &amp; -free protein language models as protein function predictors**
 
 Mingyang Hu, Fajie Yuan, Kevin K. Yang, Fusong Ju, **Jin Su**, Hui Wang, Fei Yang, Qiuyang Ding
 
@@ -113,7 +110,7 @@ _NeurIPS 2022_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/papers/MAYA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 **Multi-granularity textual adversarial attack with behavior cloning**
