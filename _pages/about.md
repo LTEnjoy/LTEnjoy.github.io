@@ -51,12 +51,9 @@ collaborate with an open community🤩!
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-
-**U-Fold: Dynamic Intent-Aware Context Folding for User-Centric Agents**
+<span class="pub-year">2026</span> **[U-Fold: Dynamic Intent-Aware Context Folding for User-Centric Agents](https://arxiv.org/abs/2601.18285)**
 
 **Jin Su**, Runnan Fang, Yeqiu Li, ..., Ningyu Zhang, Fajie Yuan
-
-<a href="https://arxiv.org/abs/2601.18285"><img src="https://img.shields.io/badge/Paper-arXiv-red" style="max-width: 100%;"></a>
 
 _ACL 2026 Findings_
 </div>
@@ -64,12 +61,9 @@ _ACL 2026 Findings_
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-
-**Prime: A multi-agent environment for orchestrating dynamic computational workflows in protein engineerings**
+<span class="pub-year">2025</span> **[Prime: A multi-agent environment for orchestrating dynamic computational workflows in protein engineering](https://doi.org/10.1101/2025.09.22.677756)**
 
 Yuyang Zhou, **Jin Su**\*, Jiawei Zhang, ..., Li Fan, Fajie Yuan
-
-<a href="https://doi.org/10.1101/2025.09.22.677756"><img src="https://img.shields.io/badge/Paper-bioRxiv-green" style="max-width: 100%;"></a>
 
 _preprint_
 </div>
@@ -77,47 +71,29 @@ _preprint_
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-
-**A trimodal protein language model enables advanced protein searches**
+<span class="pub-year">2025</span> **[A trimodal protein language model enables advanced protein searches](https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1)**
 
 **Jin Su**, Yan He, Shiyang You, ..., Hongyuan Lu, Fajie Yuan
 
-<a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-bioRxiv-green" style="max-width: 100%;"></a>
-<a href="https://huggingface.co/spaces/westlake-repl/Demo_ProTrek_650M_UniRef50"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=Demo" style="max-width: 100%;"></a>
-<a href="https://github.com/westlake-repl/ProTrek"><img src="https://img.shields.io/github/stars/westlake-repl/ProTrek?style=social&label=Code+Stars" style="max-width: 100%;"></a>
-
 _Nature Biotechnology 2025_
 </div>
 </div>
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-
-**Democratizing protein language model training, sharing and collaboration**
+<span class="pub-year">2025</span> **[Democratizing protein language model training, sharing and collaboration](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v1)**
 
 **Jin Su**, Zhikai Li, Tianli Tao, ..., Sergey Ovchinnikov, Fajie Yuan
 
-<a href="https://www.biorxiv.org/content/10.1101/2024.05.24.595648v1"><img src="https://img.shields.io/badge/Paper-bioRxiv-green" style="max-width: 100%;"></a>
-<a href="https://huggingface.co/SaProtHub"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=SaprotHub" style="max-width: 100%;"></a>
-<a href="https://colab.research.google.com/github/westlake-repl/SaprotHub/blob/main/colab/SaprotHub.ipynb"><img src="images/colab-badge.svg" style="max-width: 100%;"></a>
-<a href="https://github.com/westlake-repl/SaProtHub"><img src="https://img.shields.io/github/stars/westlake-repl/SaprotHub?style=social&label=Code+Stars" style="max-width: 100%;"></a>
-
 _Nature Biotechnology 2025_
 </div>
 </div>
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-
-**SaProt: Protein Language Modeling with Structure-aware Vocabulary**
+<span class="pub-year">2024</span> **[SaProt: Protein Language Modeling with Structure-aware Vocabulary](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v3)**
 
 **Jin Su**, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Fajie Yuan
-
-<a href="https://www.biorxiv.org/content/10.1101/2023.10.01.560349v3"><img src="https://img.shields.io/badge/Paper-bioRxiv-green" style="max-width: 100%;"></a>
-<a href="https://huggingface.co/westlake-repl/SaProt_650M_AF2"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=Model" style="max-width: 100%;"></a>
-<a href="https://portal.valencelabs.com/blogs/post/saprot-protein-language-modeling-with-structure-aware-vocabulary-uyLPrUZqyDF60Yr" alt="blog"><img src="https://img.shields.io/badge/Blog-Portal-violet" /></a> 
-<a href="https://zhuanlan.zhihu.com/p/664754366" alt="zhihu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a> 
-<a href="https://github.com/westlake-repl/SaProt"><img src="https://img.shields.io/github/stars/westlake-repl/SaProt?style=social&label=Code+Stars" style="max-width: 100%;"></a>
 
 _ICLR 2024 spotlight_
 </div>
@@ -125,13 +101,9 @@ _ICLR 2024 spotlight_
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-
-**Exploring evolution-aware &amp; -free protein language models as protein function predictors**
+<span class="pub-year">2022</span> **[Exploring evolution-aware & -free protein language models as protein function predictors](https://arxiv.org/abs/2206.06583)**
 
 Mingyang Hu, Fajie Yuan, Kevin K. Yang, Fusong Ju, **Jin Su**, Hui Wang, Fei Yang, Qiuyang Ding
-
-<a href="https://arxiv.org/abs/2206.06583"><img src="https://img.shields.io/badge/Paper-arXiv-red"></a>
-<a href='https://github.com/elttaes/Revisiting-PLMs'><img src="https://img.shields.io/github/stars/elttaes/Revisiting-PLMs?style=social&label=Code+Stars"></a>
 
 _NeurIPS 2022_
 </div>
@@ -139,13 +111,9 @@ _NeurIPS 2022_
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-
-**Multi-granularity textual adversarial attack with behavior cloning**
+<span class="pub-year">2021</span> **[Multi-granularity textual adversarial attack with behavior cloning](https://arxiv.org/abs/2109.04367)**
 
 Yangyi Chen\*, **Jin Su**\*, Wei Wei
-
-<a href="https://arxiv.org/abs/2109.04367"><img src="https://img.shields.io/badge/Paper-arXiv-red"></a>
-<a href='https://github.com/Yangyi-Chen/MAYA'><img src="https://img.shields.io/github/stars/Yangyi-Chen/MAYA?style=social&label=Code+Stars"></a>
 
 _EMNLP 2021_
 </div>

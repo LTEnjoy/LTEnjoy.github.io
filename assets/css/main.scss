@@ -41,6 +41,19 @@
 @import "print";
 
 /* ----------------------------------------------------------------
+   Publication year label
+   ---------------------------------------------------------------- */
+.pub-year {
+    display: inline-block;
+    font-size: 0.78em;
+    font-weight: 600;
+    color: #888;
+    font-variant-numeric: tabular-nums;
+    margin-right: 0.3em;
+    vertical-align: middle;
+}
+
+/* ----------------------------------------------------------------
    Publications scrollable list
    ---------------------------------------------------------------- */
 .publications-list {
