@@ -47,6 +47,8 @@ collaborate with an open community🤩!
 # 📝 Publications
 \* denotes equal contribution
 
+<div class="publications-list">
+
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
@@ -147,6 +149,8 @@ Yangyi Chen\*, **Jin Su**\*, Wei Wei
 
 _EMNLP 2021_
 </div>
+</div>
+
 </div>
 
 [//]: # (# 🎖 Honors and Awards)

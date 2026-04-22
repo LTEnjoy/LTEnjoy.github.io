@@ -41,6 +41,38 @@
 @import "print";
 
 /* ----------------------------------------------------------------
+   Publications scrollable list
+   ---------------------------------------------------------------- */
+.publications-list {
+    max-height: 600px;
+    overflow-y: auto;
+    padding-right: 0.75em;
+    border: 1px solid #efefef;
+    border-radius: 6px;
+    padding-left: 0.75em;
+
+    /* 细滚动条 */
+    scrollbar-width: thin;
+    scrollbar-color: #ccc transparent;
+
+    &::-webkit-scrollbar {
+        width: 5px;
+    }
+    &::-webkit-scrollbar-track {
+        background: transparent;
+    }
+    &::-webkit-scrollbar-thumb {
+        background-color: #ccc;
+        border-radius: 10px;
+    }
+
+    /* 最后一篇去掉分隔线 */
+    .paper-box:last-child {
+        border-bottom: none;
+    }
+}
+
+/* ----------------------------------------------------------------
    Publication cards
    ---------------------------------------------------------------- */
 .paper-box {
